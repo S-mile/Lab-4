@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FragmentPreference</string>
+    <string name="ln_line"><font color="blue">ln-line preferences</font></string>
+    <string name="Dialog_based"><font color="red">Dialog-based preferences</font></string>
+    <string name="Launch"><font color="black">Launch preference</font></string>
+    <string name="Preference"><font color="white">Preference attributes</font></string>
+    <string-array name="Choose_one">
+        <item>Alpha Option 01</item>
+        <item>Beta Option 02</item>
+        <item>Charlie Option 03</item>
+    </string-array>
+</resources>
