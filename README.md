@@ -11,14 +11,14 @@
 *  ListPreference
     
 ![](https://github.com/S-mile/images/blob/master/lab4/3.png)
-*PreferenceScreen: 跳转到另一个PreferenceScreen
+*  PreferenceScreen: 跳转到另一个PreferenceScreen
 
 ![](https://github.com/S-mile/images/blob/master/lab4/4.png)
-*PreferenceScreen: 启动一个网页
+*  PreferenceScreen: 启动一个网页
 
 ![](https://github.com/S-mile/images/blob/master/6ab4/5.png)
 
-*CheckBox: 子选项，当父选项勾选时呈现
+*  CheckBox: 子选项，当父选项勾选时呈现
 
 ![](https://github.com/S-mile/images/blob/master/lab4/6.png)
 
