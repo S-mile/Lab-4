@@ -16,7 +16,7 @@
 ![](https://github.com/S-mile/images/blob/master/lab4/4.png)
 *  PreferenceScreen: 启动一个网页
 
-![](https://github.com/S-mile/images/blob/master/6ab4/5.png)
+![](https://github.com/S-mile/images/blob/master/lab4/5.png)
 
 *  CheckBox: 子选项，当父选项勾选时呈现
 
